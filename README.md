@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mfouzanshakil
-- 🌱 I’m a BS Computer Engineering student at COMSATS University Islamabad
+- 🌱 I’m a BS Computer Engineering graduate from COMSATS University Islamabad
 - 📫 Reach me at mfznshakil2222@gmail.com
 
 <!---
